@@ -9,6 +9,7 @@
 </head>
 <body>
     <footer>
+        <p>Test</p>
             <img src="images/01_FunShine 1.png" alt="Funshine tours logo with palm trees, sun, and tour bus">
             <div><h1>Contact Us!</h1></div>
             <div>
