@@ -1,10 +1,10 @@
 .heading_images {
     display: flex;
 }
-#image_logo {
+.image_logo {
     max-width: 288px;
 }
-#image_script {
+.image_script {
     min-width: 650px;
 }
 
