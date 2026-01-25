@@ -1,3 +1,6 @@
+.heading_images {
+    display: flex;
+}
 #image_logo {
     max-width: 288px;
 }
@@ -7,7 +10,4 @@
 
 footer img {
     max-width: 150px;
-}
-.heading_images {
-    display: flex;
 }
