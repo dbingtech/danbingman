@@ -9,7 +9,9 @@
 </head>
 <body>
     <header>
-        <h1>Dan Bingman.com</h1>
+        <div>
+            <img src="images/logo.png" alt="Funshine tours logo with palm trees, sun, and tour bus">
+        </div>
         <nav>
             <a href="index.php">Home</a>
             <a href="about.php">About</a>

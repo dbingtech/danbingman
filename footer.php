@@ -8,13 +8,8 @@
     <!-- Other head elements like scripts, favicon, etc. -->
 </head>
 <body>
-    <header>
-        <h1>Dan Bingman.com</h1>
-        <nav>
-            <a href="index.php">Home</a>
-            <a href="about.php">About</a>
-            <a href="contact.php">Contact</a>
-        </nav>
-    </header>
+    <footer>
+            <img src="images/logo.png" alt="Funshine tours logo with palm trees, sun, and tour bus">
+    </footer>
     <main>
     <!-- Page-specific content goes here -->
