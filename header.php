@@ -11,7 +11,7 @@
     <header>
         <div class="heading_images">
             <img class="image_logo" src="images/01_FunShine 1.png" alt="Funshine tours logo with palm trees, sun, and tour bus">
-            <img class="image_script" src="images\01_FunShine 2.png" alt="Funshine tours written in script font" width="1000px">
+            <img class="image_script" src="images\01_FunShine 2.png" alt="Funshine tours written in script font">
         </div>
         <nav>
             <a href="index.php">Home</a>
