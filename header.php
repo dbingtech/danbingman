@@ -9,8 +9,9 @@
 </head>
 <body>
     <header>
-        <div>
+        <div class="heading_images">
             <img src="images/01_FunShine 1.png" alt="Funshine tours logo with palm trees, sun, and tour bus">
+            <img src="images/script_title.png" alt="Funshine tours written in script font">
         </div>
         <nav>
             <a href="index.php">Home</a>

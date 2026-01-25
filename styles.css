@@ -5,3 +5,6 @@ header img {
 footer img {
     max-width: 150px;
 }
+.heading_images {
+    display: flex;
+}
