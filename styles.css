@@ -1,5 +1,8 @@
-header img {
-    max-width: 300px;
+#image_logo {
+    max-width: 288px;
+}
+#image_script {
+    min-width: 650px;
 }
 
 footer img {
