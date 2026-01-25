@@ -20,6 +20,7 @@
                         <li><a href="attributes.html">Attributes</a></li>
                         <li><a href="privacypolicy.html">Privacy Policy</a></li>
                         <li><a href="cookiepolicy.html">Cookie Policy</a></li>
+                        <p>Copyright</p>
                     </ul>
                 </div>
     </footer>
