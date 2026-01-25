@@ -6,12 +6,16 @@
     <title>Document</title>
 </head>
 <body>
-    <?php // test1.php
-  $username = "Fred Smith";
-  echo $username;
-  echo "<br>";
-  $current_user = $username;
-  echo $current_user;
+    <?php
+    $pageTitle = "Home Page"; // Set a page-specific variable
+    require 'header.php';
+    ?>
+
+    <h2>Welcome to our website!</h2>
+    <p>This is the main content of the home page.</p>
+
+<?php
+require 'footer.php'; // Assuming you also have a footer component
 ?>
 </body>
 </html>
