@@ -9,7 +9,7 @@
 </head>
 <body>
     <footer>
-            <img src="images/logo.png" alt="Funshine tours logo with palm trees, sun, and tour bus">
+            <img src="images/01_FunShine 1.png" alt="Funshine tours logo with palm trees, sun, and tour bus">
     </footer>
     <main>
     <!-- Page-specific content goes here -->
