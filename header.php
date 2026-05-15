@@ -7,11 +7,9 @@
     <link rel="stylesheet" href="styles.css">
     <!-- Other head elements like scripts, favicon, etc. -->
 </head>
-<body>
-    <header>
-            image of myself
+    <main>
+                        image of myself
             Daniel Bingman (Name)
             User Experience Designer (Title)
-    </header>
-    <main>
+    </main>
     <!-- Page-specific content goes here -->
