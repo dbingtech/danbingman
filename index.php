@@ -12,7 +12,6 @@
     require 'header.php';
     ?>
 
-
     <?php
     $pageTitle = "Home Page"; // Set a page-specific variable
     require 'nav.php';

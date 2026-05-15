@@ -9,7 +9,8 @@
 </head>
 <body>
     <footer>
-        
+        Contact Me!
+        440-299-8053
     </footer>
     <main>
     <!-- Page-specific content goes here -->

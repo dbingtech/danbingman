@@ -9,11 +9,9 @@
 </head>
 <body>
     <header>
-        <div class="heading_images">
             image of myself
             Daniel Bingman (Name)
             User Experience Designer (Title)
-        </div>
     </header>
     <main>
     <!-- Page-specific content goes here -->
