@@ -1,6 +1,5 @@
 <header>
-                        image of myself
-            Daniel Bingman (Name)
-            User Experience Designer (Title)
-    </header>
-    <!-- Page-specific content goes here -->
+    <img src="profile.jpg" alt="Profile Image">
+    <h1>Daniel Bingman</h1>
+    <p>User Experience Designer</p>
+</header>
