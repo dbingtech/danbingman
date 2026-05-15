@@ -9,21 +9,7 @@
 </head>
 <body>
     <footer>
-        <p>Test</p>
-            <img src="images/01_FunShine 1.png" alt="Funshine tours logo with palm trees, sun, and tour bus">
-            <div><h1>Contact Us!</h1></div>
-            <div>
-                <p>Email:tours@funshine-tours.com</p>
-                <p>Phone: 216-440-TOUR</p>
-                <div>
-                    <ul>
-                        <li><a href="attributes.html">Attributes</a></li>
-                        <li><a href="privacypolicy.html">Privacy Policy</a></li>
-                        <li><a href="cookiepolicy.html">Cookie Policy</a></li>
-                        <p>Copyright. All rights reserved.</p>
-
-                    </ul>
-                </div>
+        
     </footer>
     <main>
     <!-- Page-specific content goes here -->

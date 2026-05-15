@@ -10,10 +10,10 @@
 <body>
     <header>
         <div class="heading_images">
-            
+            image of myself
+            Daniel Bingman (Name)
+            User Experience Designer (Title)
         </div>
-        <nav>
-            </nav>
     </header>
     <main>
     <!-- Page-specific content goes here -->

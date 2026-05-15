@@ -12,16 +12,11 @@
     require 'header.php';
     ?>
 
-
     <?php
     $pageTitle = "Home Page"; // Set a page-specific variable
     require 'nav.php';
     ?>
-
-    <h2></h2>
-    <div>
-       
-    </div>
+    <h2>HomePage</h2>
 
 <?php
 require 'footer.php'; // Assuming you also have a footer component
