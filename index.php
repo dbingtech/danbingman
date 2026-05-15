@@ -8,19 +8,14 @@
 </head>
 <body>
     <?php
-    $pageTitle = "Home Page"; // Set a page-specific variable
+    // $pageTitle = "Home Page"; // Set a page-specific variable
     require 'header.php';
     ?>
 
     <?php
-    $pageTitle = "Home Page"; // Set a page-specific variable
+    // $pageTitle = "Home Page"; // Set a page-specific variable
     require 'nav.php';
     ?>
-
-    <h2></h2>
-    <div>
-       
-    </div>
 
 <?php
 require 'footer.php'; // Assuming you also have a footer component
