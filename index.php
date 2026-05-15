@@ -12,18 +12,8 @@
     ?>
 
     <h2>Funshine tours has been offering groups tours in the Cleveland area since 1983 under the name R & E Tours.</h2>
-
     <div>
-        <div>Plant City</div>
-        <div>The Villages</div>
-        <div>Bradenton</div>
-        <div>Bradenton</div>
-        <div>Bradenton</div>
-        <div>Bradenton</div>
-        <div>Bradenton</div>
-        <div>Bradenton</div>
-        <div>Bradenton</div>
-        <div>Bradenton</div>
+       
     </div>
 
 <?php
